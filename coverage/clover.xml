@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1695349331600" clover="3.2.0">
+  <project timestamp="1695349331600" name="All files">
+    <metrics statements="34" coveredstatements="34" conditionals="2" coveredconditionals="2" methods="10" coveredmethods="10" elements="46" coveredelements="46" complexity="0" loc="34" ncloc="34" packages="1" files="3" classes="3"/>
+    <file name="VegetablesCsvDAO.ts" path="C:\Users\Lucas\Desktop\provalp2\src\daos\VegetablesCsvDAO.ts">
+      <metrics statements="15" coveredstatements="15" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="22" type="stmt"/>
+      <line num="15" count="22" type="stmt"/>
+      <line num="16" count="22" type="stmt"/>
+      <line num="17" count="44" type="stmt"/>
+      <line num="18" count="44" type="cond" truecount="2" falsecount="0"/>
+      <line num="19" count="22" type="stmt"/>
+      <line num="20" count="22" type="stmt"/>
+      <line num="21" count="22" type="stmt"/>
+      <line num="23" count="22" type="stmt"/>
+      <line num="24" count="22" type="stmt"/>
+    </file>
+    <file name="VegetablesDAO.ts" path="C:\Users\Lucas\Desktop\provalp2\src\daos\VegetablesDAO.ts">
+      <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+      <line num="1" count="2" type="stmt"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="12" count="2" type="stmt"/>
+      <line num="16" count="24" type="stmt"/>
+      <line num="17" count="2" type="stmt"/>
+      <line num="22" count="2" type="stmt"/>
+      <line num="23" count="38" type="stmt"/>
+      <line num="25" count="2" type="stmt"/>
+      <line num="28" count="2" type="stmt"/>
+      <line num="29" count="208" type="stmt"/>
+      <line num="31" count="2" type="stmt"/>
+    </file>
+    <file name="VegetablesJsonDAO.ts" path="C:\Users\Lucas\Desktop\provalp2\src\daos\VegetablesJsonDAO.ts">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
